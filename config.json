@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-io-data-workflows",
+      "title": "Reading and Writing Data Files",
+      "description": "Learn to work with files in Python by reading data, processing it line-by-line, and writing results to new files.",
+      "path": "assignments/file-io-data-workflows",
+      "dueDate": "2026-05-24",
+      "attachments": [
+        {
+          "name": "File I/O Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data File",
+          "file": "sample_data.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }

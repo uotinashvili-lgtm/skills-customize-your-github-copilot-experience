@@ -1,0 +1,8 @@
+alice 85
+bob 92
+charlie 78
+diana 88
+eve 95
+frank 81
+grace 89
+henry 86
